@@ -1,0 +1,1 @@
+PODS_FSQDEMO_FOURSQUARE_IOS_API_OTHER_LDFLAGS = -framework MobileCoreServices

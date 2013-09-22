@@ -1,0 +1,15 @@
+PODS:
+  - Foursquare-iOS-API (1.1.4):
+    - Foursquare-iOS-API/Core+SBJson
+  - Foursquare-iOS-API/Core+SBJson (1.1.4):
+    - SBJson
+  - SBJson (3.2)
+
+DEPENDENCIES:
+  - Foursquare-iOS-API (= 1.1.4)
+
+SPEC CHECKSUMS:
+  Foursquare-iOS-API: ea39e387dc818c6bf5e52aeb37b1c5034e0733d7
+  SBJson: e60b4dc22448c2ae1e754b523a4ab53408e85c8d
+
+COCOAPODS: 0.25.0
