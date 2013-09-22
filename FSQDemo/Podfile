@@ -2,7 +2,7 @@
 # platform :ios, "6.0"
 
 target "FSQDemo" do
-    pod 'Foursquare-iOS-API', '1.1.4'
+    pod 'Foursquare-iOS-API', '~> 1.1.4'
 end
 
 target "BZFoursquareLogicTests" do
